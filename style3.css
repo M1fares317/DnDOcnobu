@@ -1,0 +1,92 @@
+body{
+  font-family: "Philosopher", sans-serif;
+  font-style: normal;
+  background-color:#C4AB78;
+  text-align:center;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+header{
+  text-align:center;
+  background-image:url(https://cdn.leonardo.ai/users/2aa76c7b-20f4-4472-a30d-942c0e2c2785/generations/57a6c1f1-43ca-4801-9a48-eb9350251124/Leonardo_Phoenix_10_Two_friends_one_with_short_spiky_brown_hai_0.jpg);
+  font-size:100%;
+}
+
+header h1{
+  padding-top:100px;
+  margin-bottom:10px;
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color:white;
+  font-size:50px;
+}
+
+nav{
+    text-align: center;
+    padding-bottom:70px;
+    
+}
+
+nav a{
+    margin: 0px;
+    font-size:20px;
+    color: black;
+}
+
+button{
+    border-radius: 10px;
+    
+}
+.DungeonsDragons{
+  display:flex;
+  align-items:center;
+  justify-content: center;
+  background-color:#F0D8A9;
+  border-radius: 10px;
+  margin-bottom: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top:50px;
+  flex-direction: column;
+  text-align: center;
+}
+.DungeonsDragons img{
+    width: 50%;
+    height: 50%;
+    border-radius: 10px;
+    margin:10px;
+}
+
+.DungeonsDragons p{
+    font-family: 'ABeeZee';
+    padding-left: 10px;
+    font-size: 23px;
+    text-align: left;
+    padding-bottom:10px;
+}
+
+.DungeonsDragons li{
+    font-family: 'ABeeZee';
+    padding-left: 10px;
+    font-size: 23px;
+    text-align: left;
+    padding-bottom:10px;
+}
+.opus{
+  margin:0px;
+  font-size:20px;
+  padding-bottom:10px;
+  padding-bottom:100px;
+}
+
+footer{
+  text-align:center;
+  background-color:#1D0E00;
+  font-size:100%;
+  color:white;
+  padding:30px;
+}
